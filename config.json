@@ -3,12 +3,13 @@
   "username": "MBonalumi",
   "name": "Marco Bonalumi",
   "userimg": "https://avatars.githubusercontent.com/u/61749282?v=4",
-  "sort": "created",
+  "sort": "updated",
   "order": "desc",
   "includeFork": true,
   "theme": "light.css",
   "types": [
    "all"
-  ]
+  ],
+  "linkedin": "marcobonalumi"
  }
 ]
