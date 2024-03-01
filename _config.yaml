@@ -1,0 +1,43 @@
+# The title of the website
+title: My Portfolio Website
+
+# The description of the website
+description: This is a website to showcase my projects and skills
+
+# The base URL of the website
+# This should match the name of the github repository
+baseurl: "/my-personal-website"
+
+# The URL of the website
+# This should match the github pages domain
+url: "https://mbonalumi.github.io"
+
+# The theme of the website
+# This should match the name of the jekyll theme
+theme: jekyll-theme-minimal
+
+# The plugins of the website
+# This should include the github-pages plugin
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - github-pages
+
+# The markdown processor of the website
+# This should be kramdown
+markdown: kramdown
+
+# The destination of the website
+# This should be _site
+destination: _site
+
+# The exclude list of the website
+# This should include the files and folders that are not part of the website
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - .gitignore
