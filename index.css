@@ -554,6 +554,6 @@ body {
       rgba(10, 10, 10, 0.4),
       rgb(10, 10, 10, 0.4)
     ),
-    url("C:\Users\bona1\Pictures\MIE_PROFILO\pfpmaker.com\cover-image_sembravero.png");
+    url("file://C:\Users\bona1\Pictures\MIE_PROFILO\pfpmaker.com\cover-image_sembravero.png");
   --background-background: #fff;
 }
